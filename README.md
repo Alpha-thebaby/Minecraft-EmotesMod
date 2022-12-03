@@ -1,5 +1,4 @@
 # Emotecraft  
-a.k.a. EmoteX  
 
 ---
 how to build
